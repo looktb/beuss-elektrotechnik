@@ -1,0 +1,17 @@
+.DS_Store
+.agents/
+.claude/
+skills-lock.json
+SKILL.md
+SKILL-2.md
+SKILL-3.md
+SKILL-4.md
+DESIGN.md
+DESIGN.json
+PRODUCT.md
+
+# Unreferenced source assets (Facebook-style numbered files and unused images)
+[0-9]*_[0-9]*_[0-9]*_n.jpg
+[0-9]*_[0-9]*_[0-9]*_n.png
+[0-9]*_[0-9]*_[0-9]*_n.png.jpeg
+ueber_uns.png
